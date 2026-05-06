@@ -104,7 +104,10 @@ By leveraging cloud computing, the application ensures secure data storage, real
 - Donor List 
 - Admin Dashboard  
 
-*(Add images in `/screenshots` folder)*
+*PIC Home Page
+<img width="449" height="358" alt="Screenshot 2026-05-06 122723" src="https://github.com/user-attachments/assets/f838f040-6c5e-489b-8947-9f456c1a8e1b" />
+*PIC Donors List 
+<img width="669" height="390" alt="Screenshot 2026-05-06 123012" src="https://github.com/user-attachments/assets/6e38e8d1-c0fd-443e-95a3-adfb6b146a1e" />
 
 ---
 
