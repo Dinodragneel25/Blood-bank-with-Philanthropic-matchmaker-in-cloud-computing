@@ -111,7 +111,6 @@ By leveraging cloud computing, the application ensures secure data storage, real
 
 ### Step 1: Clone Repository
 
-```bash
 git clone https://github.com/your-username/blood-bank-cloud-system.git
 cd blood-bank-cloud-system
 
@@ -130,7 +129,6 @@ Requirements:
 
 ### Step 3: Install Dependencies
 
-```bash
 composer install
 
 Step 4: Configure Database
